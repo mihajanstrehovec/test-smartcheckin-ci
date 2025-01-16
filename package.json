@@ -1,0 +1,16 @@
+{
+  "name": "smartcheckin-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mihajanstrehovec/test-smartcheckin-ci.git",
+  "author": "Miha Jan Strehovec <miha.strehovec@celtra.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "scripts": {},
+  "dependencies": {
+    "allure-js-commons": "^3.0.9"
+  }
+}
